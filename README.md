@@ -6,7 +6,7 @@
 
 Link: https://www.dropbox.com/s/9fgti8ypn37nh8g/vagrant_env.tar?dl=0
 
-Put file vagrant_env.tar to your home directory.
+Put file **vagrant_env.tar** to your home directory.
 
 ## 2.2. Start vagrant environment.
 
@@ -29,15 +29,15 @@ vagrant up
 
 [http://localhost:8080/app](http://localhost:8080/app)
 
-## 3.3. Zabbix Web GUI via HTTPS (User/password: admin/zabbix)
+**Zabbix Web GUI via HTTPS (User/password: admin/zabbix)**
 
-(https://127.0.0.1:4433/zabbix/)
+[https://127.0.0.1:4433/zabbix/](https://127.0.0.1:4433/zabbix/)
 
-## 3.4. Zabbix Web GUI via HTTP (User/password: admin/zabbix)
+**Zabbix Web GUI via HTTP (User/password: admin/zabbix)**
 
-(http://127.0.0.1:8181/zabbix/)
+[http://127.0.0.1:8181/zabbix/](http://127.0.0.1:8181/zabbix/)
 
-## 3.5. SSH conection available:
+**SSH conection available:**
 
 - user vagrant with public key
 - password access for user root with password: vagrant
