@@ -2,10 +2,10 @@
 
 Installation and configuration from scratch in 4 documents:
 
-- [01_vagrant.md]()
-- [02_ansible.md]()
-- [03_zabbix.md]()
-- [04_backup_boxes.md]()
+- [01_vagrant.md](https://github.com/sergiimarchuk/HomeWork/blob/master/01_vagrant.md)
+- [02_ansible.md](https://github.com/sergiimarchuk/HomeWork/blob/master/02_ansible.md)
+- [03_zabbix.md](https://github.com/sergiimarchuk/HomeWork/blob/master/03_zabbix.md)
+- [04_backup_boxes.md](https://github.com/sergiimarchuk/HomeWork/blob/master/04_backup_boxes.md)
 
 # 2. Quick start
 
