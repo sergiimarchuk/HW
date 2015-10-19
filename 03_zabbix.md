@@ -38,7 +38,7 @@ http://127.0.0.1:8080/zabbix
 
 Default username/password is admin/zabbix.
 
-![Zabbix 1](https://github.com/sergiimarchuk/HomeWork/blob/master/images/zabbix_107.png "Zabbix 1")
+![Zabbix 1](https://github.com/sergiimarchuk/HomeWork/blob/master/images/zabbix_106.png "Zabbix 1")
 
 ## Register zabbix client on Zabbix Web GUI.
 
