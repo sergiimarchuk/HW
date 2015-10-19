@@ -21,26 +21,32 @@ vagrant up
 
 ### Open URLs
 
-Application session counter: http://localhost:8080/mon
+#### Application session counter
 
-Application page (sleep 60 seconds): http://localhost:8080/app
+http://localhost:8080/mon
 
-Zabbix Web GUI via HTTPS : https://127.0.0.1:4433/zabbix/ 
+#### Application page (sleep 60 seconds)
 
-Zabbix Web GUI via HTTP: http://127.0.0.1:8181/zabbix/
+http://localhost:8080/app
 
-User/password: admin/zabbix
+#### Zabbix Web GUI via HTTPS (User/password: admin/zabbix)
 
-SSH conection available via:
+https://127.0.0.1:4433/zabbix/ 
 
-- user vagrant - public key
+#### Zabbix Web GUI via HTTP (User/password: admin/zabbix)
+
+http://127.0.0.1:8181/zabbix/
+
+#### SSH conection available:
+
+- user vagrant with public key
 - password access for user root with password: vagrant
 
 ```bash
 ssh -i ~/.vagrant.d/id_rsa vagrant@127.0.0.1 -p 3333
 ssh -i ~/.vagrant.d/id_rsa vagrant@127.0.0.1 -p 4444
-ssh root@127.0.0.1 -p 3333  
-ssh root@127.0.0.1 -p 4444  # password: vagrant
+ssh root@127.0.0.1 -p 3333
+ssh root@127.0.0.1 -p 4444
 ```
 
 ### Run stress test
