@@ -25,7 +25,7 @@ Additional files:
 - stress.sh
 - Vagrantfile
 
-Directory *images* for document *03_zabbix.md*
+Directory **images** for document **03_zabbix.md**
 
 # 2. Quick start
 
