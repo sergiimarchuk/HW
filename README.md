@@ -49,7 +49,7 @@ cd ~/HomeWork/
 bash stress.sh 
 ```
 
-# 1.2. Vagrant environment port forwarding schema:
+# 1.2. Vagrant environment port forwarding:
 
 ![Schema 1](https://github.com/sergiimarchuk/HomeWork/blob/master/schema1.png "Schema 1")
 
