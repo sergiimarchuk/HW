@@ -1,14 +1,14 @@
-# HomeWork
+# 1. HomeWork
 
-## 1.1. Quick start
+# 2. Quick start
 
-### Download vagrant environment.
+## 2.1. Download vagrant environment.
 
 Link: https://www.dropbox.com/s/9fgti8ypn37nh8g/vagrant_env.tar?dl=0
 
 Put file vagrant_env.tar to your home directory.
 
-### Start vagrant environment.
+## 2.2. Start vagrant environment.
 
 ```bash
 cd ~
@@ -19,25 +19,25 @@ cd vagrant-homework/
 vagrant up
 ```
 
-### Open URLs
+# 3. Open URLs
 
-#### Application session counter
+## 3.1. Application session counter
 
 http://localhost:8080/mon
 
-#### Application page (sleep 60 seconds)
+## 3.2.  Application page (sleep 60 seconds)
 
 http://localhost:8080/app
 
-#### Zabbix Web GUI via HTTPS (User/password: admin/zabbix)
+## 3.3. Zabbix Web GUI via HTTPS (User/password: admin/zabbix)
 
 https://127.0.0.1:4433/zabbix/ 
 
-#### Zabbix Web GUI via HTTP (User/password: admin/zabbix)
+## 3.4. Zabbix Web GUI via HTTP (User/password: admin/zabbix)
 
 http://127.0.0.1:8181/zabbix/
 
-#### SSH conection available:
+## 3.5. SSH conection available:
 
 - user vagrant with public key
 - password access for user root with password: vagrant
@@ -49,14 +49,14 @@ ssh root@127.0.0.1 -p 3333
 ssh root@127.0.0.1 -p 4444
 ```
 
-### Run stress test
+# 4. Run stress test
 
 ```bash
 cd ~/vagrant-homework/
 bash stress.sh 
 ```
 
-# 1.2. Vagrant environment port forwarding:
+# 5. Vagrant environment port forwarding
 
 ![Schema 1](https://github.com/sergiimarchuk/HomeWork/blob/master/schema1.png "Schema 1")
 
