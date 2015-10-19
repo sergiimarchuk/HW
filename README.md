@@ -45,7 +45,7 @@ ssh root@127.0.0.1 -p 4444  # password: vagrant
 ### 1.1.4. Run stress test
 
 ```bash
-cd ~/HomeWork/
+cd ~/vagrant-homework/
 bash stress.sh 
 ```
 
