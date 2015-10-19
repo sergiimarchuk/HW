@@ -1,4 +1,11 @@
-# 1. HomeWork
+# 1. Introduction.
+
+Installation and configuration from scratch in 4 documents:
+
+- [01_vagrant.md]()
+- [02_ansible.md]()
+- [03_zabbix.md]()
+- [04_backup_boxes.md]()
 
 # 2. Quick start
 
