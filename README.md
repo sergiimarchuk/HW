@@ -4,7 +4,7 @@
 
 ## 2.1. Download vagrant environment.
 
-Link: https://www.dropbox.com/s/9fgti8ypn37nh8g/vagrant_env.tar?dl=0
+Link: [https://www.dropbox.com/s/9fgti8ypn37nh8g/vagrant_env.tar?dl=0](https://www.dropbox.com/s/9fgti8ypn37nh8g/vagrant_env.tar?dl=0)
 
 Put file **vagrant_env.tar** to your home directory.
 
