@@ -20,6 +20,7 @@ sudo dpkg -i virtualbox-5.0_5.0.6-103037~Ubuntu~trusty_amd64.deb
 
 ```bash
 ssh-keygen
+mkdir .vagrant.d
 cp -a .ssh/id_rsa .vagrant.d/
 ```
 
